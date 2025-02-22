@@ -1,6 +1,6 @@
 # Lab 5: Vector space semantic modeling
 
-In this lab, you'll be building neural word embeddings using a new library, gensim. This lab is due Friday, February 28, 11:59pm EST.
+In this lab, you'll be building neural word embedding models using a new library, gensim. This lab is due Friday, February 28, 11:59pm EST.
 
 ### Overview 
 1. Clone the lab repo down to your own machine.
